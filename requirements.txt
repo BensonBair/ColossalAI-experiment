@@ -1,0 +1,4 @@
+colossalai
+torchvision
+matplotlib
+torch
